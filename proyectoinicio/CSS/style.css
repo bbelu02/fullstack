@@ -1,0 +1,103 @@
+/* html
+    {
+        font-size: 62.5%;
+    }
+
+    body
+        {
+        font-size: 16px;
+        }
+/* Esto me permite conseguir 10PX = 1REM
+sin eso 16PX= 1 REM */
+        
+
+/* h1{ 
+    color: red;
+    background-color: yellow;
+    text-align: center ;
+    text-transform: uppercase;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    border: 30px solid black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-seriffo;
+    font-size: 7em;
+    max-width: 60%;
+} */
+
+/* body{
+    background-color: white;
+} */
+/* .h5azul{
+    color: white;
+    background-color: blue;
+} */
+/* #projo{
+    color: white;
+    background-color: red;
+} */
+/* .seccionPrueba  h3{
+    color: white;
+    background-color: green;
+} */
+/* .primer{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+} */
+/* #segunda{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+} */
+/* h6{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+} */
+
+/* SELECTOR ELEMENTO */
+
+/* .ejerciciosselectores p{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+} */
+
+/* SELECTOR CADENA DESCENDIENTE */
+
+ /* [src="./img/Logo-Adecco.png"]{
+    background-color: yellow;
+ } */
+
+ /* SELECTOR DE TODOS LOS HIJOS */
+
+/* .ejerciciosselectores > a{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+} */
+
+/* SELECTOR MULTIPLE */
+
+/* #segundoh3 , [src="./img/Logo-Adecco.png"]{
+    color: green;
+} */
+
+ h1 {
+ background: rgba(248, 102, 102, 0.65);
+ margin-bottom: 10px;
+ font-weight: 800;
+ padding: 35px;
+ color: white;
+ font-size: 4.5rem;
+ line-height: 1.2;
+ font-family: 'open sans', sans-serif;
+}
+ 
